@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Schellack.net]]></title>
+        <description><![CDATA[Schellack.net]]></description>
+        <link>https://schellack.net</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 19 Nov 2024 02:07:24 GMT</lastBuildDate>
+        <atom:link href="https://schellack.net/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Serverless Computing – Presentation at 2019 SQL Saturday]]></title>
+            <description><![CDATA[Slides and notes from Jonathan Schellack’s talk “Serverless Computing — Promises and Pitfalls” at the August 17, 2019 Baton Rouge SQL Saturday.]]></description>
+            <link>/posts/markdown</link>
+            <guid isPermaLink="true">/posts/markdown</guid>
+            <category><![CDATA[cloud]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Sat, 17 Aug 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
